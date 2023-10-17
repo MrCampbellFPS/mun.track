@@ -6,7 +6,7 @@ mun.track is a Model UN committee dashboard.
 
 ### Try it now!
 
-<a href="http://muntrackapp.com">
+<a href="public/index.html">
   <img src="https://cloud.githubusercontent.com/assets/882976/3309253/4ef545ae-f696-11e3-80ce-6ae6a58fdefa.png">
 </a>
 
